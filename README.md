@@ -1,5 +1,6 @@
-# stellarhealth
 
+# stellarhealth
+#### Node.js Application that tracks health condition data such as diet and helps set goals for a healthier lifestyle.
 > Health and Nutrition goal tracking
 
 ## Build Setup
